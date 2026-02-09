@@ -1,7 +1,7 @@
 ﻿# AFO：结束？开始？ - 文化课学习模拟游戏
 
 ![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey)
-![Version](https://img.shields.io/badge/Version-1.2.7-blue)
+![Version](https://img.shields.io/badge/Version-2.0.0-blue)
 ![Status](https://img.shields.io/badge/Status-Complete-green)
 
 ## 🎮 游戏简介
@@ -201,6 +201,13 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-Hans
 	优化游戏平衡性，修复了资料购买过于超模的问题。
 ### 2026.1.24 v1.2.7
 	优化随机事件。
+### 2026.2.9 v2.0.0
+	新增焦虑系统：焦虑值会随着时间推移不断增加,持续侵蚀心理值并降低效率。
+	重写随机事件：重写全部随机事件，增强了合理性
+	优化效率计算公式：更严谨的计算
+	重写开始界面：美化并增加更新日志
+	数值平衡：重构数值，极大增强平衡性
+	修复bug：修复了已知bug，优化了用户体验
 ---
 
 **祝您游戏愉快，在AFO的旅程中找到属于自己的成长与救赎！** 🎓✨
